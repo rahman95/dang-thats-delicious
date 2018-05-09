@@ -1,27 +1,9 @@
-## What is this?
+[![](http://wes.io/kH9O/wowwwwwwwww.jpg)](https://LearnNode.com)
 
-Just you wait folks!
+## Now That's Delicious!
 
-## Sample Data
+Together we will build "Now That's Delicious!", a full stack restaurant application which users can search, geolocate, review and curate their favourite restaurants from around the world.
 
-To load sample data, run the following command in your terminal:
+The application has three main models — Users, Stores and Reviews — all of which are relational. It is designed to hit upon many of today's application needs such as user authentication, database storage, Ajax REST API, file upload and image resizing.
 
-```bash
-npm run sample
-```
-
-If you have previously loaded in this data, you can wipe your database 100% clean with:
-
-```bash
-npm run blowitallaway
-```
-
-That will populate 16 stores with 3 authors and 41 reviews. The logins for the authors are as follows:
-
-|Name|Email (login)|Password|
-|---|---|---|
-|Wes Bos|wes@example.com|wes|
-|Debbie Downer|debbie@example.com|debbie|
-|Beau|beau@example.com|beau|
-
-
+Based on course available here [https://learnnode.com](https://learnnode.com)
